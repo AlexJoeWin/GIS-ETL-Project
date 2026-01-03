@@ -38,6 +38,8 @@ gis_project/
 │ │ ├── buildings/ 			# folder for OSM building data
 │ │ ├── kg/ 				# folder for administrative boundary data
 │ └── output/ 				# output files
+├── README.md
+├── LICENSE
 └── .gitignore
 
 ```
