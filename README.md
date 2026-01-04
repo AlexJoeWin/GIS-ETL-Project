@@ -1,7 +1,7 @@
 # 🌍 GIS-ETL Mini Project – Building Density Analysis for Upper Austria
 
 This project demonstrates a **simple GIS-ETL pipeline** using **Python (GeoPandas)** and **QGIS**.  
-The goal is to calculate and visualize the **number of buildings per administrative unit** (Katastralgemeinden) based on **OpenStreetMap data** and **data by the State of Upper Austria** (Katastralgemeindegrenzen OÖ - generalisiert).
+The goal is to calculate and visualize the **number of buildings per administrative unit** (Katastralgemeinden) based on **OpenStreetMap data** and **data by the State of Upper Austria** (Katastralgemeindegrenzen OÖ - generalisiert, Stand: 01.04.2025).
 
 ---
 
