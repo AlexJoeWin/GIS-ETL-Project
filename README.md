@@ -45,7 +45,7 @@ gis_project/
 ```
 ---
 
-## 📊 Output files
+## 📊 Output Files
 - kg_building_density.gpkg (Jupyter Notebook)
 - gis_project.qgz (QGIS)
 - Katastralgemeinden_OÖ_202504.pdf (QGIS)
